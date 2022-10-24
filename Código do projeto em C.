@@ -84,6 +84,7 @@ int main(void) {
   printf("\n");
   printf("Já o valor do comprimento de onda guiado é: %E", ComprimentoOnda);
   printf("\n");
+
   //Cálculo 4:
   Atenuacao = (Ko*Permissividade*(1.7584319-1)*0.001)/(2*sqrt(1.7584319)*(Permissividade-1));
   printf("Em síntese, o valor da atenuação é: %E Np/m.", Atenuacao);
