@@ -65,6 +65,7 @@ int main(void) {
   printf("Portanto, W é igual a %f centímetros.", auxiliar1*Espessura);
   printf("\n");
   printf("\n");
+  
   //Cálculo 3:
   float Ko = 9*pow(10,9);
   float Beta = Ko*sqrt(1.7584319);
